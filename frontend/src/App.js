@@ -4,26 +4,26 @@ import Modal from "./components/Modal";
 const todoItems = [
   {
     id: 1,
-    title: "Go to Market",
-    description: "Buy ingredients to prepare dinner",
+    title: "Grocery Store",
+    description: "Grab necessary ingredients for dinner!",
     completed: true
   },
   {
     id: 2,
     title: "Study",
-    description: "Read Algebra and History textbook for upcoming test",
+    description: "Study programming in Python/Django, JavaScript/React and SQL.",
     completed: false
   },
   {
     id: 3,
-    title: "Sally's books",
-    description: "Go to library to rent sally's books",
+    title: "Book",
+    description: "Look over some example code solutions in Cracking the Coding Interview.",
     completed: true
   },
   {
     id: 4,
     title: "Article",
-    description: "Write article on how to use django with react",
+    description: "Write an article about programming experiences.",
     completed: false
   }
 ];
